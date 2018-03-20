@@ -1,0 +1,27 @@
+C:\Users\cecil\source\repos\Control de Gastos\Control de Gastos\bin\Debug\Control de Gastos.exe.config
+C:\Users\cecil\source\repos\Control de Gastos\Control de Gastos\bin\Debug\Control de Gastos.exe
+C:\Users\cecil\source\repos\Control de Gastos\Control de Gastos\bin\Debug\Control de Gastos.pdb
+C:\Users\cecil\source\repos\Control de Gastos\Control de Gastos\obj\Debug\Control de Gastos.csprojResolveAssemblyReference.cache
+C:\Users\cecil\source\repos\Control de Gastos\Control de Gastos\obj\Debug\Control_de_Gastos.Form1.resources
+C:\Users\cecil\source\repos\Control de Gastos\Control de Gastos\obj\Debug\Control_de_Gastos.Form2.resources
+C:\Users\cecil\source\repos\Control de Gastos\Control de Gastos\obj\Debug\Control_de_Gastos.Form3.resources
+C:\Users\cecil\source\repos\Control de Gastos\Control de Gastos\obj\Debug\Control_de_Gastos.Form4.resources
+C:\Users\cecil\source\repos\Control de Gastos\Control de Gastos\obj\Debug\Control_de_Gastos.Properties.Resources.resources
+C:\Users\cecil\source\repos\Control de Gastos\Control de Gastos\obj\Debug\Control de Gastos.csproj.GenerateResource.Cache
+C:\Users\cecil\source\repos\Control de Gastos\Control de Gastos\obj\Debug\Control de Gastos.csproj.CoreCompileInputs.cache
+C:\Users\cecil\source\repos\Control de Gastos\Control de Gastos\obj\Debug\Control de Gastos.exe
+C:\Users\cecil\source\repos\Control de Gastos\Control de Gastos\obj\Debug\Control de Gastos.pdb
+C:\Users\Tatiana lludi\Desktop\Control de Gastos\Control de Gastos\bin\Debug\Control de Gastos.exe.config
+C:\Users\Tatiana lludi\Desktop\Control de Gastos\Control de Gastos\obj\Debug\Control de Gastos.exe
+C:\Users\Tatiana lludi\Desktop\Control de Gastos\Control de Gastos\obj\Debug\Control de Gastos.pdb
+C:\Users\Tatiana lludi\Desktop\Control de Gastos\Control de Gastos\bin\Debug\Control de Gastos.exe
+C:\Users\Tatiana lludi\Desktop\Control de Gastos\Control de Gastos\bin\Debug\Control de Gastos.pdb
+C:\Users\Tatiana lludi\Desktop\Control de Gastos\Control de Gastos\obj\Debug\Control de Gastos.csprojResolveAssemblyReference.cache
+C:\Users\Tatiana lludi\Desktop\Control de Gastos\Control de Gastos\obj\Debug\Control_de_Gastos.Form1.resources
+C:\Users\Tatiana lludi\Desktop\Control de Gastos\Control de Gastos\obj\Debug\Control_de_Gastos.Form2.resources
+C:\Users\Tatiana lludi\Desktop\Control de Gastos\Control de Gastos\obj\Debug\Control_de_Gastos.Form3.resources
+C:\Users\Tatiana lludi\Desktop\Control de Gastos\Control de Gastos\obj\Debug\Control_de_Gastos.Form4.resources
+C:\Users\Tatiana lludi\Desktop\Control de Gastos\Control de Gastos\obj\Debug\Control_de_Gastos.Properties.Resources.resources
+C:\Users\Tatiana lludi\Desktop\Control de Gastos\Control de Gastos\obj\Debug\Control de Gastos.csproj.GenerateResource.Cache
+C:\Users\Tatiana lludi\Desktop\Control de Gastos\Control de Gastos\obj\Debug\Control_de_Gastos.Inicio.resources
+C:\Users\Tatiana lludi\Desktop\Control de Gastos\Control de Gastos\obj\Debug\Control_de_Gastos.Form5.resources
